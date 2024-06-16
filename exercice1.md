@@ -70,11 +70,7 @@ Choisir **partition primaire** pour le type demandé
 **la fenêtre suivante s'affiche :**  
 
 
-![](https://github.com/infokrim/Checkpoint1/blob/main/exercice1/Partie%201/image6.PNG)
-                 
-                 
-**la fenêtre suivante s'affiche :**  
-                 
+                
                  
 ![](https://github.com/infokrim/Checkpoint1/blob/main/exercice1/Partie%201/image7.PNG)
                   
@@ -142,7 +138,7 @@ Pour choisir le type de partition SWAP, se positionner sur **"82 partition d’�
 **Une partition "sdb2" de type "partition d’échange Linux/Solaris" d'une taille de 4 Go.**   
                 
                 
-:warning: Il faut écrire les partitions du disque crées pour qu'elles soient crées réellement.  
+:warning: Il faut écrire les partitions du disque crées pour qu'elles soient intégrées à l'arborescence des disques.  
                 
 Séléctionner "Ecrire" puis appuyer sur la touche "Entrée"(ou appuyer sur la touche E du clavier) pour enregistrer les partitions créées. 
 
