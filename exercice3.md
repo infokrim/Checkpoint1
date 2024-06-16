@@ -2,7 +2,7 @@
 ---
 
 ### 1. :arrow_down_small: :arrow_down_small: :arrow_down_small:
-cut -d: -f1 /etc/passwd   
+`cut -d: -f1 /etc/passwd`
 
 ### 2. :arrow_down_small: :arrow_down_small: :arrow_down_small:
 Commande :`Chmod 744 myfile`   
